@@ -1,0 +1,1 @@
+projects built using the javascript programming language. this project is built to add songs, edit songs, delete songs and add songs in playlist. The database used is postgresql. This is also the final project for the back-end course.
